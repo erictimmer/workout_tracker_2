@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  date: 2013-10-27
+  cardio: MyString
+  time: 2013-10-27 16:50:59
+
+two:
+  name: MyString
+  date: 2013-10-27
+  cardio: MyString
+  time: 2013-10-27 16:50:59
